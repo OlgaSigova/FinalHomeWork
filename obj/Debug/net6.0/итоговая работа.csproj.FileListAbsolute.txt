@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\итоговая работа.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\итоговая работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\итоговая работа.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\итоговая работа.AssemblyInfo.cs
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\итоговая работа.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\итоговая работа\bin\Debug\net6.0\итоговая работа.exe
+C:\Users\Asus\Desktop\итоговая работа\bin\Debug\net6.0\итоговая работа.deps.json
+C:\Users\Asus\Desktop\итоговая работа\bin\Debug\net6.0\итоговая работа.runtimeconfig.json
+C:\Users\Asus\Desktop\итоговая работа\bin\Debug\net6.0\итоговая работа.dll
+C:\Users\Asus\Desktop\итоговая работа\bin\Debug\net6.0\итоговая работа.pdb
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\итоговая работа.dll
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\refint\итоговая работа.dll
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\итоговая работа.pdb
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\итоговая работа.genruntimeconfig.cache
+C:\Users\Asus\Desktop\итоговая работа\obj\Debug\net6.0\ref\итоговая работа.dll
